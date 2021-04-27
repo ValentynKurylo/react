@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.country1, .country2{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    width: 500px;
+    height: 300px;
+}
+h2{
+color: goldenrod;
+}
