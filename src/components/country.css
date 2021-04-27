@@ -1,11 +1,11 @@
 *{
     margin: 0;
     padding: 0;
-}
-.country1, .country2{
     background-color: bisque;
-    display: flex;
-    justify-content: space-around;
+}
+.country{
+    display: inline-flex;
+    margin: 5px;
 }
 img{
     width: 500px;
